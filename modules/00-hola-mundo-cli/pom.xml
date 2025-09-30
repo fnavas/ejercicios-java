@@ -5,7 +5,7 @@
 
     <parent>
         <groupId>com.fnavas</groupId>
-        <artifactId>java-portfolio</artifactId>
+        <artifactId>ejercicios-java</artifactId>
         <version>1.0.0</version>
         <relativePath>../../pom.xml</relativePath>
     </parent>

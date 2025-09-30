@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.fnavas</groupId>
-  <artifactId>java-portfolio</artifactId>
+  <artifactId>ejercicios-java</artifactId>
   <version>1.0.0</version>
   <packaging>pom</packaging>
   <name>Ejercicios Java (multimodule)</name>
@@ -13,6 +13,7 @@
 
   <modules>
     <!-- Añadiremos aquí los módulos (ej: modules/00-hola-mundo-cli) -->
+    <module>modules/00-hola-mundo-cli</module>
   </modules>
 
   <properties>
